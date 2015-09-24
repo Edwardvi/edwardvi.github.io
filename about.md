@@ -27,9 +27,8 @@ header-img: "img/green.jpg"
 ###关注：
 
 
-- [元认知](http://www.mesule.com/)
-- 写作
-- Python
+- [粉丝日志](http://www.blog.fens.me/)
+- [Python](http://liaoxuefeng.com)
 - [阳志平](http://www.yangzhiping.com/)
 - [ZoomQuiet](http://blog.zoomquiet.io/)
 
@@ -44,7 +43,7 @@ header-img: "img/green.jpg"
 
 ###我的朋友们
 
-- [huangyafei](http://huangyafei.com)
+- [lomo](http://huangyafei.com)
 
 
 ###联系
