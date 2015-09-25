@@ -1,6 +1,6 @@
 ##说明
 
-此博客 fork 自陈素封，博客：[cnfeat.com](cnfeat.com)，via [Azeril](http://azeril.me/)，非常感谢你们。
+此博客 fork 自陈素封，博客：[cnfeat.com](http://cnfeat.com)，via [Azeril](http://azeril.me/)，非常感谢你们。
 
 ##门不存在
 
