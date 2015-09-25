@@ -1,0 +1,39 @@
+---
+
+###**使用pad++写md格式的第一篇**
+
+一般的日记，喜欢用天气开头，
+比如说，今天天气很不错。
+
+一般的blog，喜欢用事件开头，
+比如说，今天韩寒方舟子对骂（是的我对博客或者公共舆论事件的记忆还停留在韩寒写博客那个时间）
+
+作为本博客的第一篇文字，一定要开一个好头。
+
+这个年，头都变了。（自行脑补相声瓦舍李立群在《那一夜，我们说相声》中的声音）
+
+github的链接是这么不稳定，以至于每次git push时，都要尝试三四遍，才能看到
+
+>Counting objects: 3, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 298 bytes | 0 bytes/s, done.
+Total 3 (delta 2), reused 0 (delta 0)
+To git@github.com:edwardvi/edwardvi.github.io
+   efcd51d..e04287c  master -> master
+
+基于此，延续git思想，第一篇blog就这样结束吧。等晚上部门聚会完了再来**迭代**
+
+那么，就以“今天天气还算不错！”，结束！
+
+。今天天气还算不错！
+
+----
+
+
+
+
+![](http://7d9mjz.com1.z0.glb.clouddn.com/20150905-215606.jpg)
+
+
+（题图：saurabh mohnot by Nik FC）
