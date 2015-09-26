@@ -49,11 +49,11 @@ defaults:
 
 # Comments 
 comments :
-  provider : duoshuo
+  provider : 
   duoshuo :
-    short_name : Edward
+    short_name : 
   disqus :
-      short_name : Edward
+      short_name : 
 
 # Analytics and webmaster tools stuff goes here
 google_analytics: 
