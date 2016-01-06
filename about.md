@@ -12,7 +12,7 @@ header-img: "img/green.jpg"
 
 我是Edward，通过建立博客，希望能够学习互联网语言，read 这个时代
 
-现在研习 **现在学习 python** 。
+现在正在学习**python** 。
 
 ###remind
 
