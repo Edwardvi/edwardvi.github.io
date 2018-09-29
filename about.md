@@ -6,9 +6,7 @@ header-img: "img/green.jpg"
 ---
 
 
-<center>
-    <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
-</center>
+
 
 我是Edward，通过建立博客，希望能够学习互联网语言，read 这个时代
 
@@ -27,10 +25,10 @@ header-img: "img/green.jpg"
 ###关注：
 
 
-- [粉丝日志](http://www.blog.fens.me/)
+
 - [Python](http://liaoxuefeng.com)
-- [阳志平](http://www.yangzhiping.com/)
-- [ZoomQuiet](http://blog.zoomquiet.io/)
+
+
 
 
 
@@ -48,7 +46,7 @@ header-img: "img/green.jpg"
 
 ###联系
 
-- [博客：www.lfl2.xyz](www.lfl2.xyz)
+
 
 - [知乎@ewadrd.lv](http://www.zhihu.com/people/yinsi)
 
@@ -56,7 +54,7 @@ header-img: "img/green.jpg"
 
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="" align="center"></p>
 </center>
 
 
